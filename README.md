@@ -71,5 +71,5 @@ The following resources were used to guide the development of this project:
 - **Streamlit:**
   - [GeeksforGeeks - A Beginner's Guide to Streamlit](https://www.geeksforgeeks.org/a-beginners-guide-to-streamlit/)
 
-## Contributing
-If you'd like to contribute to the project, please fork the repository and submit a pull request with your proposed changes.
+## Results
+
