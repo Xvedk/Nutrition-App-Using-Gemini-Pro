@@ -72,4 +72,12 @@ The following resources were used to guide the development of this project:
   - [GeeksforGeeks - A Beginner's Guide to Streamlit](https://www.geeksforgeeks.org/a-beginners-guide-to-streamlit/)
 
 ## Results
+1. 
+![OUTPUT1](https://github.com/user-attachments/assets/3882922d-8017-467c-bdeb-00a579fb301b)
+2.
+![OUTPUT2](https://github.com/user-attachments/assets/191be41f-1831-4aef-9088-cbe589fff8f8)
+3.
+![OUTPUT3](https://github.com/user-attachments/assets/789f5b3b-313d-464e-96e7-16656dde8ec5)
+
+
 
